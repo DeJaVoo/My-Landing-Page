@@ -1,13 +1,13 @@
 {
-  "main.css": "/Dvir-Segal/static/css/main.498e2056.chunk.css",
-  "main.js": "/Dvir-Segal/static/js/main.58c7b517.chunk.js",
-  "main.js.map": "/Dvir-Segal/static/js/main.58c7b517.chunk.js.map",
-  "runtime~main.js": "/Dvir-Segal/static/js/runtime~main.46886814.js",
-  "runtime~main.js.map": "/Dvir-Segal/static/js/runtime~main.46886814.js.map",
-  "static/js/2.365522a5.chunk.js": "/Dvir-Segal/static/js/2.365522a5.chunk.js",
-  "static/js/2.365522a5.chunk.js.map": "/Dvir-Segal/static/js/2.365522a5.chunk.js.map",
-  "index.html": "/Dvir-Segal/index.html",
-  "precache-manifest.612dc2759fdac8cf44021cdfce66f0cb.js": "/Dvir-Segal/precache-manifest.612dc2759fdac8cf44021cdfce66f0cb.js",
-  "service-worker.js": "/Dvir-Segal/service-worker.js",
-  "static/css/main.498e2056.chunk.css.map": "/Dvir-Segal/static/css/main.498e2056.chunk.css.map"
+  "main.css": "/dvir-segal/static/css/main.498e2056.chunk.css",
+  "main.js": "/dvir-segal/static/js/main.4b51b180.chunk.js",
+  "main.js.map": "/dvir-segal/static/js/main.4b51b180.chunk.js.map",
+  "runtime~main.js": "/dvir-segal/static/js/runtime~main.1470aa00.js",
+  "runtime~main.js.map": "/dvir-segal/static/js/runtime~main.1470aa00.js.map",
+  "static/js/2.365522a5.chunk.js": "/dvir-segal/static/js/2.365522a5.chunk.js",
+  "static/js/2.365522a5.chunk.js.map": "/dvir-segal/static/js/2.365522a5.chunk.js.map",
+  "index.html": "/dvir-segal/index.html",
+  "precache-manifest.21fcbba9cb9d9f0db41275d09a1f478c.js": "/dvir-segal/precache-manifest.21fcbba9cb9d9f0db41275d09a1f478c.js",
+  "service-worker.js": "/dvir-segal/service-worker.js",
+  "static/css/main.498e2056.chunk.css.map": "/dvir-segal/static/css/main.498e2056.chunk.css.map"
 }
