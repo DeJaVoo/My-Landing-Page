@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/My-Landing-Page/precache-manifest.6bd535453cc760b673b031ffa1b885b3.js"
+  "/Dvir-Segal/precache-manifest.4d099654738cd5a9fe29fd29acdcffe1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/My-Landing-Page/index.html", {
+workbox.routing.registerNavigationRoute("/Dvir-Segal/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
