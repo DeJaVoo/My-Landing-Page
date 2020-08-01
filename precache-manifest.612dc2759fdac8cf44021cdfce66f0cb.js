@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Dvir-Segal/static/css/main.498e2056.chunk.css"
   },
   {
-    "revision": "851f92a06090600e4452fa0053b5bf8b",
+    "revision": "56179263380fe3e6c28d9d18dd33e748",
     "url": "/Dvir-Segal/index.html"
   }
 ];
