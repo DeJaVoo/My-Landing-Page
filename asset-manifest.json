@@ -1,13 +1,13 @@
 {
-  "main.css": "/dvir-segal/static/css/main.498e2056.chunk.css",
-  "main.js": "/dvir-segal/static/js/main.660a5e13.chunk.js",
-  "main.js.map": "/dvir-segal/static/js/main.660a5e13.chunk.js.map",
+  "main.css": "/dvir-segal/static/css/main.2f39aa99.chunk.css",
+  "main.js": "/dvir-segal/static/js/main.33350b8d.chunk.js",
+  "main.js.map": "/dvir-segal/static/js/main.33350b8d.chunk.js.map",
   "runtime~main.js": "/dvir-segal/static/js/runtime~main.1470aa00.js",
   "runtime~main.js.map": "/dvir-segal/static/js/runtime~main.1470aa00.js.map",
   "static/js/2.365522a5.chunk.js": "/dvir-segal/static/js/2.365522a5.chunk.js",
   "static/js/2.365522a5.chunk.js.map": "/dvir-segal/static/js/2.365522a5.chunk.js.map",
   "index.html": "/dvir-segal/index.html",
-  "precache-manifest.72a8d7b6b15e94e12e54f437d0579b49.js": "/dvir-segal/precache-manifest.72a8d7b6b15e94e12e54f437d0579b49.js",
+  "precache-manifest.7316451ffdcf84cc255ba4ea61775aaa.js": "/dvir-segal/precache-manifest.7316451ffdcf84cc255ba4ea61775aaa.js",
   "service-worker.js": "/dvir-segal/service-worker.js",
-  "static/css/main.498e2056.chunk.css.map": "/dvir-segal/static/css/main.498e2056.chunk.css.map"
+  "static/css/main.2f39aa99.chunk.css.map": "/dvir-segal/static/css/main.2f39aa99.chunk.css.map"
 }

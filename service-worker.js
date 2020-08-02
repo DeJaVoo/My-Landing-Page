@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dvir-segal/precache-manifest.72a8d7b6b15e94e12e54f437d0579b49.js"
+  "/dvir-segal/precache-manifest.7316451ffdcf84cc255ba4ea61775aaa.js"
 );
 
 workbox.clientsClaim();
