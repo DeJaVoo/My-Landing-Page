@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/dvir-segal/static/js/runtime~main.1470aa00.js"
   },
   {
-    "revision": "13e34982a589944e2677",
-    "url": "/dvir-segal/static/js/main.87ef4364.chunk.js"
+    "revision": "ca445ba816342d5b3164",
+    "url": "/dvir-segal/static/js/main.660a5e13.chunk.js"
   },
   {
     "revision": "3ca7e8bbd4d1cd5ff20f",
     "url": "/dvir-segal/static/js/2.365522a5.chunk.js"
   },
   {
-    "revision": "13e34982a589944e2677",
+    "revision": "ca445ba816342d5b3164",
     "url": "/dvir-segal/static/css/main.498e2056.chunk.css"
   },
   {
-    "revision": "410311c279916c84335b9a50e96d3e80",
+    "revision": "1a636ce8465b5b6d23b6a2fbfe420049",
     "url": "/dvir-segal/index.html"
   }
 ];
